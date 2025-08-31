@@ -1,0 +1,302 @@
+[
+  {
+    "id": 1,
+    "name": "Lavender",
+    "description": "Lavender is a delicate purple flower known for its soothing fragrance and calming energy. In magical traditions, it’s often used in spells for peace, love, and protection, and to invite restful sleep. Medicinally, lavender is celebrated for reducing anxiety, easing insomnia, and alleviating mild pain.",
+    "image": "https://via.placeholder.com/150?text=Lavender"
+  },
+  {
+    "id": 2,
+    "name": "Echinacea",
+    "description": "Echinacea, also called the coneflower, is a striking purple-pink bloom often associated with strength and resilience. Magically, it’s used to boost vitality, protect against negativity, and promote courage. Medicinally, echinacea is prized for supporting the immune system and helping to ward off colds and infections.",
+    "image": "https://via.placeholder.com/150?text=Echinacea"
+  },
+  {
+    "id": 3,
+    "name": "Calendula",
+    "description": "Calendula, with its golden, sunny petals, is both a healer and a protector. In magical lore, it attracts love, confidence, and protection, while promoting healing energies. Medicinally, calendula is widely used to treat skin irritations, cuts, burns, and inflammation.",
+    "image": "https://via.placeholder.com/150?text=Calendula"
+  },
+  {
+    "id": 4,
+    "name": "Sage",
+    "description": "Sage is a sacred herb with silvery leaves, often used in rituals for purification, protection, and wisdom. Magically, it clears negativity and promotes mental clarity. Medicinally, sage has antimicrobial properties, soothes sore throats, aids digestion, and acts as a mild antioxidant.",
+    "image": "https://via.placeholder.com/150?text=Sage"
+  },
+  {
+    "id": 5,
+    "name": "Rosemary",
+    "description": "Rosemary is a fragrant, evergreen herb with needle-like leaves. In magic, it enhances memory, mental clarity, and protection, and is sometimes used in love and purification rituals. Medicinally, it helps with digestion, relieves muscle pain, and offers antioxidant benefits.",
+    "image": "https://via.placeholder.com/150?text=Rosemary"
+  },
+  {
+    "id": 6,
+    "name": "Carnation",
+    "description": "Dianthus caryophyllus, with their ruffled petals and long history, are often seen as symbols of love and fascination. In folklore and magical traditions, they’re believed to carry protective energy and bring good luck to the home. Pink carnations are said to attract affection and healing, while red ones boost strength and passion. Some old European beliefs even held that carnations could ward off negative spirits or misfortune, making them not only beautiful in a vase but also a quiet charm for safety and love.",
+    "image": "https://via.placeholder.com/150?text=Carnation"
+  },
+  {
+    "id": 7,
+    "name": "Belladonna",
+    "description": "Atropa belladonna is a striking yet infamous plant, known for its glossy black berries and purple, bell-shaped flowers. In folklore, it was believed to be a witch’s herb, used in flying ointments and protective charms. Associated with mystery, divination, and altered states of awareness, belladonna has long been wrapped in both fear and fascination. While dangerously toxic, it symbolized the thin veil between beauty and peril, life and death—a plant whispered about in magical traditions as one that could open doors to hidden realms.",
+    "image": "https://via.placeholder.com/150?text=Belladonna"
+  },
+  {
+    "id": 8,
+    "name": "Yarrow",
+    "description": "Yarrow is a hardy, fern-like plant with clusters of tiny white or pink flowers, long celebrated for its healing and protective properties. Medicinally, it’s known for its ability to stop bleeding, ease wounds, and reduce fevers, making it a staple in traditional herbal medicine. It also supports digestion and can help relieve colds or inflammation. In the realm of magic and folklore, yarrow is considered a powerful protective herb. It’s often used in charms to ward off negativity, attract courage, and even enhance psychic abilities. Yarrow’s dual nature as both a healer and a protector has made it a beloved plant in gardens of both the practical and mystical kind.",
+    "image": "https://via.placeholder.com/150?text=Yarrow"
+  },
+  {
+    "id": 9,
+    "name": "Chamomile",
+    "description": "Chamomile is a gentle, daisy-like herb famous for its calming and soothing qualities. Medicinally, chamomile is widely used in teas or extracts to promote relaxation, relieve stress, and support digestion, and it can also soothe skin irritations. Its mild sedative effects make it a natural aid for sleep and anxiety. In magical traditions, chamomile carries energy of peace, love, and protection. It is often added to spells or charms to attract harmony, calm tense situations, and even encourage prosperity or luck. Its delicate flowers symbolize comfort and serenity, making chamomile a bridge between practical healing and gentle magic.",
+    "image": "https://via.placeholder.com/150?text=Chamomile"
+  },
+  {
+    "id": 10,
+    "name": "Foxglove",
+    "description": "Foxglove is a striking plant with tall spires of tubular flowers, often associated with both magic and medicine. Historically, it was believed to be enchanted, protecting homes and guiding fairies, while its vibrant blooms captivated herbalists and apothecaries alike. Despite its beauty, foxglove is a potent plant: it contains compounds used in modern medicine to support heart health, particularly in treating heart conditions, though it must be handled with care due to its toxic nature. Its dual role as a symbol of mystical charm and medicinal power makes foxglove a fascinating plant in both folklore and science.",
+    "image": "https://via.placeholder.com/150?text=Foxglove"
+  },
+  {
+    "id": 11,
+    "name": "Mugwort",
+    "description": "Mugwort, with its silvery-green leaves and earthy aroma, has long been revered as a dream herb and protector. In folklore, it was burned or placed under pillows to encourage vivid dreams, astral travel, and psychic visions. It was also used to ward off evil spirits and provide protection for travelers. Medicinally, mugwort has been used to ease digestive discomfort, stimulate circulation, and regulate menstruation. Its dual reputation as a magical dream guide and a practical healer makes it one of the most storied herbs in European tradition.",
+    "image": "https://via.placeholder.com/150?text=Mugwort"
+  },
+  {
+    "id": 12,
+    "name": "St. John’s Wort",
+    "description": "St. John’s Wort bursts with bright yellow, sun-like flowers, symbolizing light and protection. In magical traditions, it was hung over doors or burned in midsummer fires to banish negativity and ward off dark forces. It’s also associated with courage and joy. Medicinally, St. John’s Wort is well-known for its use in supporting mental health, particularly for mild depression, anxiety, and nervous exhaustion. Its ability to chase away both literal and figurative darkness has made it beloved across centuries.",
+    "image": "https://via.placeholder.com/150?text=StJohnsWort"
+  },
+  {
+    "id": 13,
+    "name": "Valerian",
+    "description": "Valerian, with its delicate clusters of white and pink flowers, is deeply tied to rest and tranquility. In magical lore, it was believed to protect against lightning, ward off unwanted visitors, and invite harmony into the home. Some traditions even saw it as an herb of love, used in charms to attract affection. Medicinally, valerian root has been one of the most trusted natural remedies for insomnia, anxiety, and nervous tension, acting as a gentle sedative. Its blend of mystical protection and practical calm makes it a favorite for both witches and healers.",
+    "image": "https://via.placeholder.com/150?text=Valerian"
+  },
+  {
+    "id": 14,
+    "name": "Mandrake",
+    "description": "Mandrake, famous for its forked, human-shaped roots, has a long and eerie reputation in folklore. It was said to scream when uprooted, bringing danger to anyone nearby. In magical practices, it was treasured as a powerful talisman for protection, fertility, and wealth. Mandrake was believed to connect deeply with the spirit world, used in charms to enhance magical power. Medicinally, its roots were once used in ancient times as an anesthetic and for pain relief, though its potency and toxicity made it dangerous. This legendary plant bridges the mystical and the macabre like few others.",
+    "image": "https://via.placeholder.com/150?text=Mandrake"
+  },
+  {
+    "id": 15,
+    "name": "Elder",
+    "description": "The elder tree, with its fragrant white blossoms and dark berries, is steeped in magical lore. In folklore, it was seen as sacred, guarded by the Elder Mother spirit, and cutting it without permission was thought to bring misfortune. Magically, elder is a plant of protection, transformation, and connection to the spirit realm. Medicinally, elderflowers and elderberries have been cherished for centuries to ease colds, fevers, and flu, with strong antiviral and immune-boosting properties. Both feared and revered, the elder tree is a powerful ally in healing and magic.",
+    "image": "https://via.placeholder.com/150?text=Elder"
+  },
+  {
+    "id": 16,
+    "name": "Thyme",
+    "description": "Thyme, a small but potent herb, has long been associated with courage, strength, and purification. Ancient warriors wore sprigs of thyme for bravery in battle, while households burned it to cleanse spaces of negative energy. In magical traditions, thyme is used for protection, vitality, and to enhance psychic awareness. Medicinally, thyme is valued for its antimicrobial properties, supporting the respiratory system, easing coughs, and aiding digestion. This humble kitchen herb carries the dual power of mystical strength and everyday healing.",
+    "image": "https://via.placeholder.com/150?text=Thyme"
+  },
+  {
+    "id": 17,
+    "name": "Nettle",
+    "description": "Nettle, with its sting and strength, is both feared and revered. In folklore, it symbolized resilience and was carried as a protective charm against evil spirits. Some traditions believed nettles planted around the home created a magical barrier. Medicinally, nettle leaves are nutrient-rich and have been used for centuries to support joint health, reduce inflammation, and boost energy. Its paradox of sting and healing makes nettle a plant of both challenge and renewal.",
+    "image": "https://via.placeholder.com/150?text=Nettle"
+  },
+  {
+    "id": 18,
+    "name": "Dandelion",
+    "description": "Dandelion, often dismissed as a weed, has deep roots in folklore and healing. Magically, it is seen as a plant of wishes, divination, and spirit communication—its seeds carrying thoughts and prayers on the wind. In magical traditions, it invites clarity and transformation. Medicinally, every part of the dandelion is useful: the leaves act as a diuretic and liver tonic, the roots support digestion, and the flowers are rich in antioxidants. Both humble and powerful, dandelion teaches that magic often lies in the ordinary.",
+    "image": "https://via.placeholder.com/150?text=Dandelion"
+  },
+  {
+    "id": 19,
+    "name": "Hawthorn",
+    "description": "Hawthorn, with its thorny branches and clusters of white blossoms, has been revered as a guardian tree. In folklore, it was seen as a threshold between worlds, protecting sacred spaces and marking fairy realms. Magically, it is linked to the heart, courage, and spiritual transformation. Medicinally, hawthorn berries and flowers are prized for supporting cardiovascular health, improving circulation, and easing anxiety. This tree embodies protection, heart healing, and connection to the mystical unseen.",
+    "image": "https://via.placeholder.com/150?text=Hawthorn"
+  },
+  {
+    "id": 20,
+    "name": "Angelica",
+    "description": "Angelica, a tall, aromatic herb, has long been considered a plant of divine protection. In folklore, it was believed to ward off evil, disease, and dark magic, often carried as a talisman or burned as incense. Its very name comes from its association with angels. Magically, angelica is used in spells for purification, healing, and courage. Medicinally, its roots and stems have been used to support digestion, strengthen immunity, and ease respiratory issues. Angelica bridges the earthly and the celestial, offering both sacred shelter and healing strength.",
+    "image": "https://via.placeholder.com/150?text=Angelica"
+  },
+  {
+    "id": 21,
+    "name": "Hyssop",
+    "description": "Hyssop, with its fragrant blue-purple spikes, has long been known as a sacred cleansing herb. In folklore and scripture, it was used for purification rituals and to drive away evil. Magically, hyssop is employed to cleanse spaces, break hexes, and invite spiritual clarity. Medicinally, hyssop has been used to ease coughs, sore throats, and digestive troubles, acting as both a gentle expectorant and a tonic. Its deep connection to purification makes it both a healer and a spiritual safeguard.",
+    "image": "https://via.placeholder.com/150?text=Hyssop"
+  },
+  {
+    "id": 22,
+    "name": "Meadowsweet",
+    "description": "Meadowsweet, with its frothy clusters of white flowers, is tied to joy, love, and harmony. In Celtic tradition, it was one of the sacred herbs used in ritual, often scattered on floors to create a sweet, uplifting atmosphere. Magically, it attracts peace, happiness, and favorable energy. Medicinally, meadowsweet contains salicylates, the natural precursors of aspirin, making it a trusted remedy for headaches, fevers, and joint pain. A plant of delight and comfort, it blends beauty with potent healing.",
+    "image": "https://via.placeholder.com/150?text=Meadowsweet"
+  },
+  {
+    "id": 23,
+    "name": "Vervain",
+    "description": "Vervain, also called herb of enchantment, has been regarded as a sacred plant across many cultures. In magical tradition, it was used to consecrate altars, protect against evil, and enhance dreamwork or divination. It is a herb of inspiration and spiritual awakening. Medicinally, vervain has been used as a gentle relaxant to ease stress, tension headaches, and insomnia. Revered as both holy and healing, vervain connects the mundane to the mystical.",
+    "image": "https://via.placeholder.com/150?text=Vervain"
+  },
+  {
+    "id": 24,
+    "name": "Coltsfoot",
+    "description": "Coltsfoot, with its golden dandelion-like flowers that bloom before the leaves, has long been used as a symbol of renewal and resilience. Magically, it is linked to love and peace, often added to charms for harmony or sprinkled to calm disputes. Medicinally, its leaves have been a traditional remedy for coughs, bronchitis, and lung ailments, earning it the nickname ‘nature’s cough drop.’ Coltsfoot bridges the promise of new beginnings with the comfort of healing breath.",
+    "image": "https://via.placeholder.com/150?text=Coltsfoot"
+  },
+  {
+    "id": 25,
+    "name": "Basil",
+    "description": "Basil, with its fragrant green leaves, is widely known for protection, love, and prosperity. Magically, it is used to attract wealth, ward off negative energies, and enhance spiritual focus. Medicinally, basil supports digestion, reduces inflammation, and can act as a natural adaptogen to relieve stress.",
+    "image": "https://via.placeholder.com/150?text=Basil"
+  },
+  {
+    "id": 26,
+    "name": "Hellebore",
+    "description": "Hellebore is a winter-blooming plant with dark, mysterious flowers. In folklore, it was used for protection, to ward off evil spirits, and sometimes in divination rituals. Medicinally, hellebore has been historically used in controlled doses for heart and neurological conditions, though it is highly toxic and should be handled with care.",
+    "image": "https://via.placeholder.com/150?text=Hellebore"
+  },
+  {
+    "id": 27,
+    "name": "Mimosa",
+    "description": "Mimosa, also called the sensitive plant, has delicate, feathery leaves that close when touched. Magically, it is associated with sensitivity, emotional healing, and intuition. Medicinally, mimosa bark and leaves have been used for their calming effects, supporting mental health and alleviating anxiety or insomnia.",
+    "image": "https://via.placeholder.com/150?text=Mimosa"
+  },
+  {
+    "id": 28,
+    "name": "Lemon Balm",
+    "description": "Lemon balm, with its bright, citrus-scented leaves, is prized for love, happiness, and calming energy. Magically, it is used to attract positive vibes, enhance mental clarity, and bring peace to homes. Medicinally, lemon balm eases stress, supports digestion, and can help reduce mild insomnia.",
+    "image": "https://via.placeholder.com/150?text=LemonBalm"
+  },
+  {
+    "id": 29,
+    "name": "Passionflower",
+    "description": "Passionflower, with its intricate, star-shaped blooms, is associated with peace, spiritual insight, and protection. Magically, it is used to promote calm, meditation, and dreamwork. Medicinally, passionflower is valued for reducing anxiety, relieving insomnia, and supporting heart and nervous system health.",
+    "image": "https://via.placeholder.com/150?text=Passionflower"
+  },
+  {
+    "id": 30,
+    "name": "Lavender Cotton",
+    "description": "Lavender cotton is a small, silvery shrub with aromatic foliage. Magically, it is used for protection, purification, and to attract serenity and clarity. Medicinally, it has mild antiseptic properties and can be used in herbal baths or teas to calm the mind and soothe the skin.",
+    "image": "https://via.placeholder.com/150?text=LavenderCotton"
+  },
+  {
+    "id": 31,
+    "name": "Helleborus Niger",
+    "description": "Also called Christmas rose, Helleborus niger is a winter-blooming plant associated with protection, courage, and spiritual insight. Magically, it wards off negative energies and brings clarity to spiritual workings. Medicinally, it was historically used in controlled doses for heart and circulatory conditions, though it is toxic if misused.",
+    "image": "https://via.placeholder.com/150?text=HelleborusNiger"
+  },
+  {
+    "id": 32,
+    "name": "Bluebell",
+    "description": "Bluebells, with their graceful bell-shaped blue flowers, are linked to humility, gratitude, and protection. Magically, they are said to attract fairies, guard homes, and enhance dream magic. Medicinally, bluebell extracts were historically used for diuretic and wound-healing purposes, though care is needed as some species are toxic.",
+    "image": "https://via.placeholder.com/150?text=Bluebell"
+  },
+  {
+    "id": 33,
+    "name": "Ginseng",
+    "description": "Ginseng, with its forked roots resembling the human form, is a powerful herb of vitality, courage, and longevity. Magically, it is used to boost energy, enhance mental focus, and protect against negative forces. Medicinally, ginseng supports immune function, increases stamina, and improves mental clarity.",
+    "image": "https://via.placeholder.com/150?text=Ginseng"
+  },
+  {
+    "id": 34,
+    "name": "Marigold",
+    "description": "Marigold, with its bright golden-orange blooms, is a symbol of protection, love, and creativity. Magically, it is used to ward off negativity, attract prosperity, and enhance psychic abilities. Medicinally, marigold flowers are used to soothe skin irritations, support eye health, and aid digestion.",
+    "image": "https://via.placeholder.com/150?text=Marigold"
+  },
+  {
+    "id": 35,
+    "name": "Moonwort",
+    "description": "Moonwort is a small fern associated with protection, divination, and travel between worlds. Magically, it is used in charms to gain insight, ward off danger, and guide spiritual journeys. Medicinally, it was historically used in folk medicine for respiratory and urinary support, though it must be used carefully.",
+    "image": "https://via.placeholder.com/150?text=Moonwort"
+  },
+  {
+    "id": 36,
+    "name": "Skullcap",
+    "description": "Skullcap, with its delicate blue-violet flowers, is tied to mental clarity, protection, and tranquility. Magically, it is used to calm the mind, enhance meditation, and protect against negative energy. Medicinally, it supports nervous system health, reduces anxiety, and promotes restful sleep.",
+    "image": "https://via.placeholder.com/150?text=Skullcap"
+  },
+  {
+    "id": 37,
+    "name": "Sorrel",
+    "description": "Sorrel, with its tangy green leaves, is connected to clarity, protection, and vitality. Magically, it is used to attract good fortune, enhance intuition, and ward off ill intentions. Medicinally, sorrel supports digestion, offers antioxidant benefits, and can reduce inflammation.",
+    "image": "https://via.placeholder.com/150?text=Sorrel"
+  },
+  {
+    "id": 38,
+    "name": "Tansy",
+    "description": "Tansy, with its bright yellow button-like flowers, is a protective and purifying herb. Magically, it is used to drive away negativity, enhance courage, and strengthen boundaries. Medicinally, it has historically been used for digestive issues, fever reduction, and insect repellent, though it should be used with caution.",
+    "image": "https://via.placeholder.com/150?text=Tansy"
+  },
+  {
+    "id": 39,
+    "name": "Fennel",
+    "description": "Fennel, with its feathery leaves and golden-yellow flowers, is associated with protection, strength, and clarity. Magically, it is used to ward off negativity, enhance courage, and attract prosperity. Medicinally, fennel supports digestion, eases bloating, and has antioxidant properties.",
+    "image": "https://via.placeholder.com/150?text=Fennel"
+  },
+  {
+    "id": 40,
+    "name": "Comfrey",
+    "description": "Comfrey, with its large hairy leaves and bell-shaped flowers, is a healing herb for body and spirit. Magically, it is used in protective charms, love spells, and restorative rituals. Medicinally, comfrey promotes wound healing, soothes bruises, and supports bone and tissue repair.",
+    "image": "https://via.placeholder.com/150?text=Comfrey"
+  },
+  {
+    "id": 41,
+    "name": "Peppermint",
+    "description": "Peppermint, with its invigorating scent and cool green leaves, is tied to clarity, protection, and energy. Magically, it is used to enhance focus, attract prosperity, and ward off negative energies. Medicinally, peppermint aids digestion, relieves headaches, and can reduce nausea.",
+    "image": "https://via.placeholder.com/150?text=Peppermint"
+  },
+  {
+    "id": 42,
+    "name": "Rue",
+    "description": "Rue, with its bluish-green leaves, is a protective and purifying herb. Magically, it is used to banish negativity, guard against misfortune, and strengthen intuition. Medicinally, rue has been historically used to ease digestive issues, reduce inflammation, and support respiratory health, though it should be used cautiously.",
+    "image": "https://via.placeholder.com/150?text=Rue"
+  },
+  {
+    "id": 43,
+    "name": "Black Cohosh",
+    "description": "Black Cohosh, with its tall spires of white flowers, is associated with protection, healing, and feminine energy. Magically, it is used in rituals for strength, courage, and spiritual insight. Medicinally, it supports menstrual health, eases menopausal symptoms, and has been used for nervous system support.",
+    "image": "https://via.placeholder.com/150?text=BlackCohosh"
+  },
+  {
+    "id": 44,
+    "name": "Ashwagandha",
+    "description": "Ashwagandha, with its small, green leaves and earthy roots, is celebrated for vitality, resilience, and grounding. Magically, it is used to enhance courage, protection, and focus during challenging times. Medicinally, ashwagandha supports stress reduction, boosts immunity, increases energy, and improves mental clarity, making it both a mystical and practical ally.",
+    "image": "https://via.placeholder.com/150?text=Ashwagandha"
+  },
+  {
+    "id": 45,
+    "name": "Gotu Kola",
+    "description": "Gotu Kola, with its fan-shaped leaves and subtle fragrance, is revered for wisdom, longevity, and clarity of mind. Magically, it enhances insight, divination, and protective energies. Medicinally, it improves circulation, supports cognitive function, and promotes wound healing, bridging mystical wisdom with tangible health benefits.",
+    "image": "https://via.placeholder.com/150?text=GotuKola"
+  },
+  {
+    "id": 46,
+    "name": "Tiger Lily",
+    "description": "Tiger Lily, with its vibrant orange blossoms speckled with dark spots, symbolizes protection, courage, and prosperity. Magically, it is used to ward off negative energies, boost confidence, and attract abundance. Medicinally, tiger lily has traditionally been used for respiratory support, mild pain relief, and as a soothing remedy, blending bold beauty with practical healing.",
+    "image": "https://via.placeholder.com/150?text=TigerLily"
+  },
+  {
+    "id": 47,
+    "name": "Witch Hazel",
+    "description": "Witch Hazel, with its delicate yellow blooms and woody branches, is long celebrated for purification, protection, and clarity. Magically, it dispels negativity and strengthens boundaries, while medicinally, its astringent extracts soothe skin irritations, reduce swelling, and promote healing of minor wounds.",
+    "image": "https://via.placeholder.com/150?text=WitchHazel"
+  },
+  {
+    "id": 48,
+    "name": "Linden",
+    "description": "Linden trees, with their fragrant, heart-shaped leaves and golden blossoms, are symbols of peace, love, and protection. Magically, they attract harmony, mental clarity, and calming energy. Medicinally, linden flowers are used in teas to ease anxiety, promote restful sleep, and relieve mild colds, blending spiritual tranquility with practical health benefits.",
+    "image": "https://via.placeholder.com/150?text=Linden"
+  },
+  {
+    "id": 49,
+    "name": "Celandine",
+    "description": "Celandine, with its bright yellow, star-like flowers, is associated with protection, purification, and insight. Magically, it drives away negative energy, enhances perception, and encourages courage. Medicinally, it has been used traditionally for liver support, skin ailments, and digestive health, reflecting its dual role as both a healer and a mystical herb.",
+    "image": "https://via.placeholder.com/150?text=Celandine"
+  },
+  {
+    "id": 50,
+    "name": "Borage",
+    "description": "Borage, with its striking blue, star-shaped flowers, is celebrated for courage, joy, and protection. Magically, it inspires bravery, uplifts spirits, and safeguards against negative forces. Medicinally, borage has been used to support adrenal health, reduce inflammation, and promote heart and skin wellness, combining enchantment with practical healing.",
+    "image": "https://via.placeholder.com/150?text=Borage"
+  }
+]
